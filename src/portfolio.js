@@ -48,13 +48,13 @@ const socialMediaLinks = {
 // Skills Section
 
 const skillsSection = {
-  title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  title: "What I Act In",
+  subTitle: "Absurd Full Stack Developer Who Is Intense About Investigating All Tech Stacks",
   skills: [
     emoji(
-      "⚡ Develop Rest Api's."
+      "⚡ Develop Rest Api's for diffrent services."
     ),
-    emoji("⚡ Develop Web Appication."),
+    emoji("⚡ Develop Web based Appication."),
     emoji(
       "⚡ Integration of third party services."
     )
@@ -376,7 +376,7 @@ const podcastSection = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
-    "Discuss a project or just want to say hi? My Inbox is open for all.",
+    "Want to chat about a project or just say hello? All are welcome to my inbox.",
   number: "+91-7898515623",
   email_address: "rupendra.r14@gmail.com"
 };
