@@ -226,8 +226,8 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  title: "Projects",
+  subtitle: "I assisted a few startups and big companies in creating their tech.",
   projects: [
     {
       image: require("./assets/images/countryDelight.jpg"),
