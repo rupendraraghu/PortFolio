@@ -36,10 +36,10 @@ const socialMediaLinks = {
   github: "https://github.com/rupendraraghu",
   linkedin: "https://www.linkedin.com/in/rupendra-raghu-4a1689127/",
   gmail: "rupendra.r14@gmail.com",
-  //gitlab: "https://gitlab.com/saadpasta",
+  //gitlab: "https://gitlab.com/rupendraraghu",
   facebook: "https://www.facebook.com/rupendraraghu",
-  //medium: "https://medium.com/@saadpasta",
-  //stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
+  //medium: "https://medium.com/@rupendraraghu",
+  //stackoverflow: "https://stackoverflow.com/users/10422806/rupendraraghu",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
@@ -365,7 +365,7 @@ const blogSection = {
         "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
     },
     {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
+      url: "https://medium.com/@rupendraraghu/why-react-is-the-best-5a97563f423e",
       title: "Why REACT is The Best?",
       description:
         "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
@@ -385,8 +385,8 @@ const talkSection = {
   talks: [
     {
       title: "Build Actions For Google Assistant",
-      subtitle: "Codelab at GDG DevFest Karachi 2019",
-      slides_url: "https://bit.ly/saadpasta-slides",
+      subtitle: "Codelab at GDG ",
+      slides_url: "https://bit.ly/rupendraraghu",
       event_url: "https://www.facebook.com/events/2339906106275053/"
     }
   ],
@@ -401,7 +401,7 @@ const podcastSection = {
 
   // Please Provide with Your Podcast embeded Link
   podcast: [
-    "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"
+    ""
   ],
   display: false // Set false to hide this section, defaults to true
 };
