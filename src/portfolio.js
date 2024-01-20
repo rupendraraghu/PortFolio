@@ -232,7 +232,7 @@ const bigProjects = {
     {
       image: require("./assets/images/countryDelight.jpg"),
       projectName: "Country Delight (Rapid Delivery)",
-      projectDesc: "Country Delight is an online retailer offering natural and fresh dairy and F&V products directly to the doorstep of consumers. The orders are delivered within the delivery time slot chosen by the consumer. Users can also pause & restart the subscription whenever required. With Rapid Delivery products get deliverd within 30-40 minutes to the customer. Consumer ordering and servicing happens through a mobile application.",
+      projectDesc: "Country Delight is an online retailer offering natural and fresh dairy and F&V products directly to the doorstep of consumers.",
       footerLink: [
         {
           name: "Visit Website",
@@ -244,7 +244,7 @@ const bigProjects = {
     {
       image: require("./assets/images/wellsFargo.png"),
       projectName: "Wells Fargo (Alert Nex Gen-ANG)",
-      projectDesc: "Wells Fargo & Company is an American multinational financial services company with a significant global presence. Alert Next Gen (ANG) is developed to exceed Wells Fargo customer expectations around e-notifications related to their accounts, services, security/risk, fees, legal and fraud alerts, which could drive timely & meaningful customer actions, increase their digital engagement, and keep them up-to-date.",
+      projectDesc: "Wells Fargo & Company is an American multinational financial services company with a significant global presence.",
       footerLink: [
         {
           name: "Visit Website",
@@ -255,7 +255,7 @@ const bigProjects = {
     {
       image: require("./assets/images/sapiens.png"),
       projectName: "Sapiens (Reinsurance-RI)",
-      projectDesc: "Sapiens offers a complete insurance platform, with pre-integrated, low-code solutions and a cloud-first approach that accelerates customers’ digital transformation. Reinsurance is insurance that an insurance company purchases from another insurance company to partly insulate itself from the risk of a major claims event. With reinsurance, the company passes on some part of its own insurance liabilities to the other insurance company.",
+      projectDesc: "Sapiens offers a complete insurance platform, with pre-integrated, low-code solutions and a cloud-first approach that accelerates customers’ digital transformation.",
       footerLink: [
         {
           name: "Visit Website",
@@ -266,7 +266,7 @@ const bigProjects = {
     {
       image: require("./assets/images/finastra.jpg"),
       projectName: "Finastra (FBCC)",
-      projectDesc: "FusionBanking Corporate Channel(FBCC) delivers next-generation portal technology to unify trade, supply chain finance, cash, lending and treasury services for corporate clients. It enables you to rationalize online services and seize new opportunities for growth in global transaction banking. FBCC provides a single, scalable view into cash, trade and liquidity management  functions, and enables you to provide the working capital optimization features corporate treasuries need to effectively manage cash, trade flow.",
+      projectDesc: "FusionBanking Corporate Channel(FBCC) delivers next-generation portal technology to unify trade, supply chain finance, cash, lending and treasury services for corporate clients.",
       footerLink: [
         {
           name: "Visit Website",
@@ -277,7 +277,7 @@ const bigProjects = {
     {
       image: require("./assets/images/tandem.jpg"),
       projectName: "Tandem (Mortgage)",
-      projectDesc: "Mortgage Application is an internal web application for Tandem Bank. Earlier mortgage data was being processed manually, data was being captured in excel sheets and then calculations were performed. Once in a month data was being refreshed and sent for BOE. By mortgage application data is managed through User Interface screens with all the necessary fields to enter from the UI screen, all data is pushed into the database. Then this data from the database is consumed for BOE and other reporting purposes.",
+      projectDesc: "The UK's greener, digital bank offering sustainable ways to save, borrow, spend and share money.",
       footerLink: [
         {
           name: "Visit Website",
